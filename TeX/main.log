@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  21 OCT 2020 09:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  21 OCT 2020 23:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1069,7 +1069,10 @@ File: tikzlibraryarrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 (c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
 \arrowsize=\dimen297
-)) (c:/texlive/2020/texmf-dist/tex/latex/mhchem/mhchem.sty
+)) (c:/texlive/2020/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(c:/texlive/2020/texmf-dist/tex/latex/mhchem/mhchem.sty
 Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
 
 (c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -1110,32 +1113,32 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
 \mhchem@option@minustextsidebearingleft=\dimen300
 \mhchem@option@minustextsidebearingright=\dimen301
 )
-Package hyperref Info: Option `unicode' set `true' on input line 152.
-Package hyperref Info: Option `colorlinks' set `true' on input line 152.
+Package hyperref Info: Option `unicode' set `true' on input line 153.
+Package hyperref Info: Option `colorlinks' set `true' on input line 153.
 
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 159.
-LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 160.
+LaTeX Font Info:    ... okay on input line 160.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1173,8 +1176,8 @@ LaTeX Font Info:    ... okay on input line 159.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 159.
-Package hyperref Info: Link coloring ON on input line 159.
+(lastpage)             ! on input line 160.
+Package hyperref Info: Link coloring ON on input line 160.
 (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -1186,9 +1189,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count325
 )
-LaTeX Info: Redefining \ref on input line 159.
-LaTeX Info: Redefining \pageref on input line 159.
-LaTeX Info: Redefining \nameref on input line 159.
+LaTeX Info: Redefining \ref on input line 160.
+LaTeX Info: Redefining \pageref on input line 160.
+LaTeX Info: Redefining \nameref on input line 160.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
@@ -1218,37 +1221,37 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 
-Package chemgreek Info: Activating mapping `default' on line 159.
+Package chemgreek Info: Activating mapping `default' on line 160.
 
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Trying to load font information for U+esint on input line 1
-62.
+63.
 
 (c:/texlive/2020/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 162
+LaTeX Font Info:    Trying to load font information for U+msa on input line 163
 .
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 162
+LaTeX Font Info:    Trying to load font information for U+msb on input line 163
 .
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 16
-2.
+3.
 
 (c:/texlive/2020/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )<<t2a.cmap>>
-<Pictures//HSElogo.pdf, id=329, 597.50786pt x 845.04686pt>
+<Pictures//HSElogo.pdf, id=369, 597.50786pt x 845.04686pt>
 File: Pictures//HSElogo.pdf Graphic file (type pdf)
 <use Pictures//HSElogo.pdf>
-Package pdftex.def Info: Pictures//HSElogo.pdf  used on input line 176.
+Package pdftex.def Info: Pictures//HSElogo.pdf  used on input line 177.
 (pdftex.def)             Requested size: 102.42836pt x 144.85524pt.
  [1
 
@@ -1282,32 +1285,32 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 ...»СЊРЅС‹С… РІРµС‰РµСЃС‚РІ.}{27}{section.11}
-                                                  % [1] [2])
+l.27 ...»СЊРЅС‹С… РІРµС‰РµСЃС‚РІ.}{28}{section.11}
+                                                  % [1] [2] [3])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [3]
-(./TeX_Files/1.tex) [4] (./TeX_Files/2.tex
-<Pictures//2_table.jpg, id=493, 803.0pt x 573.14125pt>
+ [4]
+(./TeX_Files/1.tex) [5] (./TeX_Files/2.tex
+<Pictures//2_table.jpg, id=551, 803.0pt x 573.14125pt>
 File: Pictures//2_table.jpg Graphic file (type jpg)
 <use Pictures//2_table.jpg>
 Package pdftex.def Info: Pictures//2_table.jpg  used on input line 11.
 (pdftex.def)             Requested size: 512.14963pt x 365.56729pt.
- [5 <./Pictures//2_table.jpg>]
-<Pictures//2_block.png, id=500, 800.0289pt x 530.9436pt>
+ [6 <./Pictures//2_table.jpg>]
+<Pictures//2_block.png, id=559, 800.0289pt x 530.9436pt>
 File: Pictures//2_block.png Graphic file (type png)
 <use Pictures//2_block.png>
 Package pdftex.def Info: Pictures//2_block.png  used on input line 55.
 (pdftex.def)             Requested size: 358.50317pt x 237.92592pt.
 
-[6 <./Pictures//2_block.png>]
-<Pictures//2_properties.png, id=510, 933.4875pt x 539.1342pt>
+[7 <./Pictures//2_block.png>]
+<Pictures//2_properties.png, id=568, 933.4875pt x 539.1342pt>
 File: Pictures//2_properties.png Graphic file (type png)
 <use Pictures//2_properties.png>
 Package pdftex.def Info: Pictures//2_properties.png  used on input line 66.
 (pdftex.def)             Requested size: 358.50317pt x 207.05315pt.
-) [7 <./Pictures//2_properties.png>]
+) [8 <./Pictures//2_properties.png>]
 (./TeX_Files/3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
@@ -1318,7 +1321,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-<Pictures/Benzol.jpg, id=517, 135.50626pt x 122.859pt>
+<Pictures/Benzol.jpg, id=575, 135.50626pt x 122.859pt>
 File: Pictures/Benzol.jpg Graphic file (type jpg)
 <use Pictures/Benzol.jpg>
 Package pdftex.def Info: Pictures/Benzol.jpg  used on input line 18.
@@ -1333,12 +1336,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-<Pictures/Val.jpg, id=518, 488.42474pt x 73.4745pt>
+<Pictures/Val.jpg, id=576, 488.42474pt x 73.4745pt>
 File: Pictures/Val.jpg Graphic file (type jpg)
 <use Pictures/Val.jpg>
 Package pdftex.def Info: Pictures/Val.jpg  used on input line 38.
 (pdftex.def)             Requested size: 488.42354pt x 73.4743pt.
-[8 <./Pictures/Benzol.jpg>]
+[9 <./Pictures/Benzol.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
@@ -1348,14 +1351,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
-) [9 <./Pictures/Val.jpg>] (./TeX_Files/4.tex [10] [11]) [12]
-(./TeX_Files/5.tex) [13] (./TeX_Files/6.tex
-<Pictures/6_atom.png, id=550, 1330.9725pt x 791.95876pt>
+) [10 <./Pictures/Val.jpg>] (./TeX_Files/4.tex [11] [12]) [13]
+(./TeX_Files/5.tex) [14] (./TeX_Files/6.tex
+<Pictures/6_atom.png, id=608, 1330.9725pt x 791.95876pt>
 File: Pictures/6_atom.png Graphic file (type png)
 <use Pictures/6_atom.png>
 Package pdftex.def Info: Pictures/6_atom.png  used on input line 53.
 (pdftex.def)             Requested size: 512.14963pt x 304.74193pt.
- [14]) [15 <./Pictures/6_atom.png (PNG copy)>] (./TeX_Files/7.tex
+ [15]) [16 <./Pictures/6_atom.png (PNG copy)>] (./TeX_Files/7.tex
 Overfull \hbox (7.057pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Образование хи-ми-че-ской свя-зи меж-ду ато-ма-ми. Ко-ва-
 лент-
@@ -1367,13 +1370,13 @@ Overfull \hbox (2.11345pt too wide) in paragraph at lines 13--14
 о оба вза-и-мо-дей-ству-ю-щих ато-ма предо-
  []
 
-[16]
-<Pictures//7.example.png, id=565, 359.09157pt x 228.10219pt>
+[17]
+<Pictures//7.example.png, id=624, 359.09157pt x 228.10219pt>
 File: Pictures//7.example.png Graphic file (type png)
 <use Pictures//7.example.png>
 Package pdftex.def Info: Pictures//7.example.png  used on input line 64.
 (pdftex.def)             Requested size: 358.50317pt x 227.7431pt.
- [17]) [18 <./Pictures//7.example.png>] (./TeX_Files/8.tex
+ [18]) [19 <./Pictures//7.example.png>] (./TeX_Files/8.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -1405,7 +1408,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
-<Pictures/Vodorod.jpg, id=587, 579.1236pt x 261.6174pt>
+<Pictures/Vodorod.jpg, id=646, 579.1236pt x 261.6174pt>
 File: Pictures/Vodorod.jpg Graphic file (type jpg)
 <use Pictures/Vodorod.jpg>
 Package pdftex.def Info: Pictures/Vodorod.jpg  used on input line 30.
@@ -1415,7 +1418,7 @@ Overfull \hbox (66.97255pt too wide) in paragraph at lines 30--31
  [][] 
  []
 
-[19]
+[20]
 Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
@@ -1425,22 +1428,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-<Pictures/Temp.jpg, id=593, 404.10976pt x 274.626pt>
+<Pictures/Temp.jpg, id=652, 404.10976pt x 274.626pt>
 File: Pictures/Temp.jpg Graphic file (type jpg)
 <use Pictures/Temp.jpg>
 Package pdftex.def Info: Pictures/Temp.jpg  used on input line 42.
 (pdftex.def)             Requested size: 358.50317pt x 243.64113pt.
-[20 <./Pictures/Vodorod.jpg>]
+[21 <./Pictures/Vodorod.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
-<Pictures/Led.png, id=599, 583.9416pt x 362.3136pt>
+<Pictures/Led.png, id=658, 583.9416pt x 362.3136pt>
 File: Pictures/Led.png Graphic file (type png)
 <use Pictures/Led.png>
 Package pdftex.def Info: Pictures/Led.png  used on input line 52.
 (pdftex.def)             Requested size: 358.50317pt x 222.43732pt.
-) [21 <./Pictures/Temp.jpg> <./Pictures/Led.png>] (./TeX_Files/9.tex
+) [22 <./Pictures/Temp.jpg> <./Pictures/Led.png>] (./TeX_Files/9.tex
 Overfull \hbox (0.63992pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Классификация хи-ми-че-ских ре-ак-ций. Сте-хио-мет-ри-че-
 ское
@@ -1459,14 +1462,14 @@ Overfull \hbox (7.10555pt too wide) in paragraph at lines 3--4
 /12 )
  []
 
-[22] [23] [24]) [25] (./TeX_Files/10.tex) [26] (./TeX_Files/11.tex [27])
-[28] (./TeX_Files/12.tex
-<Pictures/12_metalrow.png, id=662, 426.09187pt x 216.05719pt>
+[23] [24] [25]) [26] (./TeX_Files/10.tex) [27] (./TeX_Files/11.tex [28])
+[29] (./TeX_Files/12.tex
+<Pictures/12_metalrow.png, id=720, 426.09187pt x 216.05719pt>
 File: Pictures/12_metalrow.png Graphic file (type png)
 <use Pictures/12_metalrow.png>
 Package pdftex.def Info: Pictures/12_metalrow.png  used on input line 24.
 (pdftex.def)             Requested size: 512.14963pt x 259.70906pt.
- [29 <./Pictures/12_metalrow.png>]) [30]
+ [30 <./Pictures/12_metalrow.png>]) [31]
 (./TeX_Files/13.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
@@ -1482,43 +1485,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
-[31]
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-) [32] (./TeX_Files/14.tex) (./TeX_Files/15.tex
+) [33] (./TeX_Files/14.tex [34]) [35] (./TeX_Files/15.tex
 Overfull \hbox (3.40399pt too wide) in paragraph at lines 1--1
 \T2A/cmr/bx/n/17.28 лот-но-сти и ос-нов-но-сти. Сту-пен-ча-тая дис-со-ци-а-ция 
 на при-
  []
 
-) [33] [34] (./TeX_Files/16.tex [35]
-<Pictures//16.colors.png, id=704, 350.05782pt x 167.87718pt>
+) [36] [37] (./TeX_Files/16.tex [38]
+<Pictures//16.colors.png, id=779, 350.05782pt x 167.87718pt>
 File: Pictures//16.colors.png Graphic file (type png)
 <use Pictures//16.colors.png>
 Package pdftex.def Info: Pictures//16.colors.png  used on input line 69.
 (pdftex.def)             Requested size: 350.05695pt x 167.87677pt.
- [36 <./Pictures//16.colors.png>]) [37]
+ [39 <./Pictures//16.colors.png>]) [40]
 (./TeX_Files/17.tex
-<Pictures/17_acidbase.png, id=720, 1293.83376pt x 662.475pt>
+<Pictures/17_acidbase.png, id=794, 1293.83376pt x 662.475pt>
 File: Pictures/17_acidbase.png Graphic file (type png)
 <use Pictures/17_acidbase.png>
 Package pdftex.def Info: Pictures/17_acidbase.png  used on input line 15.
 (pdftex.def)             Requested size: 358.50317pt x 183.561pt.
- [38 <./Pictures/17_acidbase.png>]
-<Pictures/17_bufcurve.png, id=728, 308.65312pt x 411.03563pt>
+ [41 <./Pictures/17_acidbase.png>]
+<Pictures/17_bufcurve.png, id=801, 308.65312pt x 411.03563pt>
 File: Pictures/17_bufcurve.png Graphic file (type png)
 <use Pictures/17_bufcurve.png>
 Package pdftex.def Info: Pictures/17_bufcurve.png  used on input line 92.
 (pdftex.def)             Requested size: 194.61935pt x 259.18587pt.
- [39 <./Pictures/17_bufcurve.png>]
-<Pictures//17_luis.png, id=735, 212.83514pt x 67.57245pt>
+ [42 <./Pictures/17_bufcurve.png>]
+<Pictures//17_luis.png, id=809, 212.83514pt x 67.57245pt>
 File: Pictures//17_luis.png Graphic file (type png)
 <use Pictures//17_luis.png>
 Package pdftex.def Info: Pictures//17_luis.png  used on input line 132.
 (pdftex.def)             Requested size: 212.83461pt x 67.57227pt.
-) [40 <./Pictures//17_luis.png (PNG copy)>] (./TeX_Files/18.tex
+) [43 <./Pictures//17_luis.png (PNG copy)>] (./TeX_Files/18.tex
 Overfull \hbox (48.21921pt too wide) in paragraph at lines 2--2
 \T2A/cmr/bx/n/17.28 но-ви-те-ли и окис-ли-те-ли. Со-став-ле-ние урав-не-ний оки
 слительно-
@@ -1545,22 +1548,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-<Pictures/Il1.jpg, id=744, 631.158pt x 440.24475pt>
+<Pictures/Il1.jpg, id=817, 631.158pt x 440.24475pt>
 File: Pictures/Il1.jpg Graphic file (type jpg)
 <use Pictures/Il1.jpg>
 Package pdftex.def Info: Pictures/Il1.jpg  used on input line 14.
 (pdftex.def)             Requested size: 512.14963pt x 357.24791pt.
-<Pictures/Il2.jpg, id=745, 582.978pt x 428.802pt>
+<Pictures/Il2.jpg, id=818, 582.978pt x 428.802pt>
 File: Pictures/Il2.jpg Graphic file (type jpg)
 <use Pictures/Il2.jpg>
 Package pdftex.def Info: Pictures/Il2.jpg  used on input line 23.
 (pdftex.def)             Requested size: 358.50317pt x 263.6953pt.
-<Pictures/Il3.jpg, id=746, 572.73975pt x 419.166pt>
+<Pictures/Il3.jpg, id=819, 572.73975pt x 419.166pt>
 File: Pictures/Il3.jpg Graphic file (type jpg)
 <use Pictures/Il3.jpg>
 Package pdftex.def Info: Pictures/Il3.jpg  used on input line 28.
 (pdftex.def)             Requested size: 358.50317pt x 262.38104pt.
-[41 <./Pictures/Il1.jpg>] [42 <./Pictures/Il2.jpg> <./Pictures/Il3.jpg>]
+[44 <./Pictures/Il1.jpg>] [45 <./Pictures/Il2.jpg> <./Pictures/Il3.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
@@ -1570,22 +1573,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-<Pictures/El1.jpg, id=760, 626.94225pt x 436.029pt>
+<Pictures/El1.jpg, id=832, 626.94225pt x 436.029pt>
 File: Pictures/El1.jpg Graphic file (type jpg)
 <use Pictures/El1.jpg>
 Package pdftex.def Info: Pictures/El1.jpg  used on input line 55.
 (pdftex.def)             Requested size: 512.14963pt x 356.18881pt.
-<Pictures/El2.jpg, id=761, 616.10175pt x 432.4155pt>
+<Pictures/El2.jpg, id=833, 616.10175pt x 432.4155pt>
 File: Pictures/El2.jpg Graphic file (type jpg)
 <use Pictures/El2.jpg>
 Package pdftex.def Info: Pictures/El2.jpg  used on input line 60.
 (pdftex.def)             Requested size: 512.14963pt x 359.47221pt.
-<Pictures/El3.jpg, id=762, 777.50475pt x 290.88675pt>
+<Pictures/El3.jpg, id=834, 777.50475pt x 290.88675pt>
 File: Pictures/El3.jpg Graphic file (type jpg)
 <use Pictures/El3.jpg>
 Package pdftex.def Info: Pictures/El3.jpg  used on input line 65.
 (pdftex.def)             Requested size: 512.14963pt x 191.60857pt.
-[43 <./Pictures/El1.jpg>]) [44 <./Pictures/El2.jpg> <./Pictures/El3.jpg>]
+[46 <./Pictures/El1.jpg>]) [47 <./Pictures/El2.jpg> <./Pictures/El3.jpg>]
 (./TeX_Files/19.tex
 Overfull \hbox (16.48625pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Окислительно-восстановительные по-тен-ци-а-лы. Со-пря-жен
@@ -1598,84 +1601,127 @@ Overfull \hbox (6.52025pt too wide) in paragraph at lines 8--9
  элек-три-че-ский по-тен-ци-ал, уста-
  []
 
-[45]) [46] (./TeX_Files/20.tex
-<Pictures//201.png, id=784, 956.57375pt x 469.755pt>
+[48]) [49] (./TeX_Files/20.tex
+<Pictures//201.png, id=858, 956.57375pt x 469.755pt>
 File: Pictures//201.png Graphic file (type png)
 <use Pictures//201.png>
 Package pdftex.def Info: Pictures//201.png  used on input line 6.
 (pdftex.def)             Requested size: 430.45421pt x 211.3878pt.
-<Pictures//202.png, id=785, 1073.00874pt x 886.31125pt>
+<Pictures//202.png, id=859, 1073.00874pt x 886.31125pt>
 File: Pictures//202.png Graphic file (type png)
 <use Pictures//202.png>
 Package pdftex.def Info: Pictures//202.png  used on input line 32.
 (pdftex.def)             Requested size: 358.50317pt x 296.12157pt.
- [47 <./Pictures//201.png>]
-<Pictures//203.png, id=791, 917.4275pt x 544.0325pt>
+ [50 <./Pictures//201.png>]
+<Pictures//203.png, id=865, 917.4275pt x 544.0325pt>
 File: Pictures//203.png Graphic file (type png)
 <use Pictures//203.png>
 Package pdftex.def Info: Pictures//203.png  used on input line 49.
 (pdftex.def)             Requested size: 366.96451pt x 217.60915pt.
-) [48 <./Pictures//202.png>] [49 <./Pictures//203.png>] (./TeX_Files/21.tex
-<Pictures//21.mendel.png, id=804, 583.42969pt x 286.06876pt>
+) [51 <./Pictures//202.png>] [52 <./Pictures//203.png>] (./TeX_Files/21.tex
+<Pictures//21.mendel.png, id=877, 583.42969pt x 286.06876pt>
 File: Pictures//21.mendel.png Graphic file (type png)
 <use Pictures//21.mendel.png>
 Package pdftex.def Info: Pictures//21.mendel.png  used on input line 9.
 (pdftex.def)             Requested size: 358.50317pt x 175.785pt.
-<Pictures//21.electric.png, id=805, 207.77625pt x 69.25874pt>
+<Pictures//21.electric.png, id=878, 207.77625pt x 69.25874pt>
 File: Pictures//21.electric.png Graphic file (type png)
 <use Pictures//21.electric.png>
 Package pdftex.def Info: Pictures//21.electric.png  used on input line 18.
 (pdftex.def)             Requested size: 358.50317pt x 119.51582pt.
-<Pictures//21.p.png, id=807, 699.36281pt x 459.96844pt>
+<Pictures//21.p.png, id=880, 699.36281pt x 459.96844pt>
 File: Pictures//21.p.png Graphic file (type png)
 <use Pictures//21.p.png>
 Package pdftex.def Info: Pictures//21.p.png  used on input line 30.
 (pdftex.def)             Requested size: 358.50317pt x 235.78798pt.
- [50 <./Pictures//21.mendel.png> <./Pictures//21.electric.png>] [51 <./Pictures
-//21.p.png>]) [52]
-(./TeX_Files/22.tex [53]) [54] (./TeX_Files/23.tex
+ [53 <./Pictures//21.mendel.png> <./Pictures//21.electric.png>] [54 <./Pictures
+//21.p.png>]) [55]
+(./TeX_Files/22.tex [56]) [57] (./TeX_Files/23.tex
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-[55]
-<Pictures/Peroxide.jpg, id=857, 469.755pt x 280.6485pt>
+[58]
+<Pictures/Peroxide.jpg, id=929, 469.755pt x 280.6485pt>
 File: Pictures/Peroxide.jpg Graphic file (type jpg)
 <use Pictures/Peroxide.jpg>
 Package pdftex.def Info: Pictures/Peroxide.jpg  used on input line 134.
 (pdftex.def)             Requested size: 358.50317pt x 214.18152pt.
- [56] [57 <./Pictures/Peroxide.jpg>]
-<Pictures/Bin.jpg, id=867, 591.4095pt x 449.2785pt>
+ [59] [60 <./Pictures/Peroxide.jpg>]
+<Pictures/Bin.jpg, id=940, 591.4095pt x 449.2785pt>
 File: Pictures/Bin.jpg Graphic file (type jpg)
 <use Pictures/Bin.jpg>
 Package pdftex.def Info: Pictures/Bin.jpg  used on input line 231.
 (pdftex.def)             Requested size: 358.50317pt x 272.34561pt.
- [58]
-<Pictures/Kach.jpg, id=872, 723.30225pt x 447.47176pt>
+ [61]
+<Pictures/Kach.jpg, id=945, 723.30225pt x 447.47176pt>
 File: Pictures/Kach.jpg Graphic file (type jpg)
 <use Pictures/Kach.jpg>
 Package pdftex.def Info: Pictures/Kach.jpg  used on input line 238.
 (pdftex.def)             Requested size: 358.50317pt x 221.78938pt.
-<Pictures/Se.jpg, id=873, 652.23676pt x 449.2785pt>
+<Pictures/Se.jpg, id=946, 652.23676pt x 449.2785pt>
 File: Pictures/Se.jpg Graphic file (type jpg)
 <use Pictures/Se.jpg>
 Package pdftex.def Info: Pictures/Se.jpg  used on input line 245.
 (pdftex.def)             Requested size: 358.50317pt x 246.94626pt.
-) [59 <./Pictures/Bin.jpg> <./Pictures/Kach.jpg>] [60 <./Pictures/Se.jpg>] (./T
-eX_Files/24.tex) [61]
-(./TeX_Files/25.tex
-<Pictures//252.jpg, id=890, 491.8375pt x 310.15875pt>
+) [62 <./Pictures/Bin.jpg> <./Pictures/Kach.jpg>] [63 <./Pictures/Se.jpg>] (./T
+eX_Files/24.tex
+Underfull \hbox (badness 1688) in paragraph at lines 32--32
+\T2A/cmr/m/n/12 азо-та. Крас-ные --
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 32--32
+\T2A/cmr/m/n/12 тал-лы, жјл-тые --
+ []
+
+
+Underfull \hbox (badness 8000) in paragraph at lines 32--32
+\T2A/cmr/m/n/12 по-лу-ме-тал-лы, си-
+ []
+
+[64]
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 61.
+
+Missing character: There is no С in font cmr12!
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 61.
+
+Missing character: There is no С in font cmr12!
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 63.
+
+Missing character: There is no С in font cmr12!
+
+LaTeX Warning: Command \CYRS invalid in math mode on input line 63.
+
+Missing character: There is no С in font cmr12!
+
+Overfull \hbox (6.0512pt too wide) in paragraph at lines 83--84
+[]\T2A/cmr/m/n/12 -- как про-стое ве-ще-ство пред-став-ля-ет со-бой хруп-кий по
+-лу-ме-талл сталь-
+ []
+
+[65]
+Overfull \hbox (3.03084pt too wide) in paragraph at lines 87--88
+\T2A/cmr/m/n/12 груп-пы азо-та име-ют элек-трон-ную кон-фи-гу-ра-цию внеш-не-го
+ энер-ге-ти-че-ско-го уров-ня ато-ма $\OML/cmm/m/it/12 n\OT1/cmr/m/n/12 s[]\OML
+/cmm/m/it/12 n\OT1/cmr/m/n/12 p[]$
+ []
+
+[66]) [67] (./TeX_Files/25.tex
+<Pictures//252.jpg, id=983, 491.8375pt x 310.15875pt>
 File: Pictures//252.jpg Graphic file (type jpg)
 <use Pictures//252.jpg>
 Package pdftex.def Info: Pictures//252.jpg  used on input line 4.
 (pdftex.def)             Requested size: 393.47052pt x 248.12733pt.
-<Pictures//251.png, id=891, 721.69624pt x 370.38374pt>
+<Pictures//251.png, id=984, 721.69624pt x 370.38374pt>
 File: Pictures//251.png Graphic file (type png)
 <use Pictures//251.png>
 Package pdftex.def Info: Pictures//251.png  used on input line 8.
 (pdftex.def)             Requested size: 505.18393pt x 259.26685pt.
- [62 <./Pictures//252.jpg> <./Pictures//251.png>]) [63]
-(./TeX_Files/26.tex
+ [68 <./Pictures//252.jpg> <./Pictures//251.png>]) [69] (./TeX_Files/26.tex
 Overfull \hbox (12.75514pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Понятие ком-плекс-но-го со-еди-не-ния. Ко-ор-ди-на-ци-он-
 ная тео-
@@ -1683,18 +1729,18 @@ Overfull \hbox (12.75514pt too wide) in paragraph at lines 1--1
 
 ) 
 AED: lastpage setting LastPage
-[64] (./main.aux)
+[70] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7EB00DE4F4E674D1F6B77378838C36CF;44007.
+(rerunfilecheck)             Checksum: F55D5584D3F7F1BEFCF818917E319F0C;49667.
  ) 
 Here is how much of TeX's memory you used:
- 26556 strings out of 479916
- 471007 string characters out of 5886648
- 817968 words of memory out of 5000000
- 42215 multiletter control sequences out of 15000+600000
+ 26637 strings out of 479916
+ 472248 string characters out of 5886648
+ 825115 words of memory out of 5000000
+ 42267 multiletter control sequences out of 15000+600000
  557946 words of font info for 87 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 96i,22n,99p,1739b,775s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 96i,22n,99p,2926b,806s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{c:/tex
 live/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-di
@@ -1706,23 +1752,25 @@ pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/tex
 live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2020/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/ty
-pe1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/
-public/cm-super/sfbi1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-
-super/sfbx1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx
-1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><
-c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive
-/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2020/texm
-f-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2020/texmf-dist/fon
-ts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/p
-ublic/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-s
-uper/sfrm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1
-728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c
-:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb><c:/texlive/
-2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (65 pages, 5288503 bytes).
+pe1/public/amsfonts/latxfont/line10.pfb><c:/texlive/2020/texmf-dist/fonts/type1
+/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/pub
+lic/cm-super/sfbi1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-sup
+er/sfbx1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx144
+0.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/
+texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/20
+20/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2020/texmf-d
+ist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2020/texmf-dist/fonts/
+type1/public/cm-super/sfrm0800.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publ
+ic/cm-super/sfrm1000.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-supe
+r/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440
+.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/t
+exlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/202
+0/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb><c:/texlive/2020/texmf-di
+st/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (71 pages, 5331566 bytes).
 PDF statistics:
- 1042 PDF objects out of 1200 (max. 8388607)
- 892 compressed objects within 9 object streams
- 237 named destinations out of 1000 (max. 500000)
- 835 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1146 PDF objects out of 1200 (max. 8388607)
+ 987 compressed objects within 10 object streams
+ 262 named destinations out of 1000 (max. 500000)
+ 915 words of extra memory for PDF output out of 10000 (max. 10000000)
 
